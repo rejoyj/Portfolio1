@@ -474,11 +474,7 @@ footer p {
   position: relative;
   height: 110vh;
 }
-.skill-arrow {
-  position: absolute;
-  right: -5rem;
-  bottom: 10.5rem;
-}
+
 .skill-details-container {
   display: flex;
   justify-content: center;
