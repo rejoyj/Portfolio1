@@ -109,9 +109,9 @@
     }
   }
 
-@media screen and (min-width: 360px) {
+@media (max-width:415px) and (min-width:360px) {
   #skill {
-    height: 200vh;
+      height: 200vh;
   }
 }
 
